@@ -4,3 +4,15 @@ h3 {
 ul {
     list-style: none;
 }
+h3{
+    font-size: 36px;
+    color: pink;
+}
+ul {
+  list-style: none;
+}
+h4{
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
