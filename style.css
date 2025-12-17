@@ -1,3 +1,9 @@
+h3 {
+    color: #faa;
+}
+ul {
+    list-style: none;
+}
 h3{
     font-size: 36px;
     color: pink;
